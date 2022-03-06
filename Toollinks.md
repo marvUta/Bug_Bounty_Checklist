@@ -1,0 +1,9 @@
+amass - https://github.com/OWASP/Amass
+subfinder - https://github.com/projectdiscovery/subfinder
+assetfinder - https://github.com/tomnomnom/assetfinder
+dnsgen - https://github.com/ProjectAnte/dnsgen
+massdns - https://github.com/blechschmidt/massdns
+httprobe - https://github.com/tomnomnom/httprobe
+aquatone - https://github.com/michenriksen/aquatone
+lazyrecon - https://github.com/nahamsec/lazyrecon
+BigBountyRecon - https://github.com/Viralmaniar/BigBountyRecon
